@@ -1,11 +1,11 @@
 ﻿body {
-    background-color:blue;
+    background-color:dimgrey;
 }
 
 
  body form > textarea{
            /*   color:blue; */
-           background-color:black;
+           background-color:lightpink;
 
         }
 
